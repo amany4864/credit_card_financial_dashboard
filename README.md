@@ -47,7 +47,7 @@ The script uses the `Client_Num` column as the primary key to join the two table
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/credit_card_financial_dashboard.git
+    git clone https://github.com/aman4864y/credit_card_financial_dashboard.git
     ```
 2.  **Install the required Python libraries:**
     ```bash
